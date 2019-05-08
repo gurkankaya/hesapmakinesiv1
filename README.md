@@ -1,2 +1,2 @@
-# hesapmakinesiv1
+# Hesap Makinesi Uygulaması
 hesap_makinesi
